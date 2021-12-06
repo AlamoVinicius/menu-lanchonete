@@ -3,3 +3,4 @@
 
 
 - Para visualizar o scrip em funcionamento acesse: https://www.youtube.com/watch?v=sBIEmCXGGvE
+- teste você mesmo online em: https://replit.com/@AlamoVinicius/menu-restaurante?v=1
